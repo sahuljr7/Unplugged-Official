@@ -150,30 +150,6 @@ const CoverVideo = () => {
           >
             G
           </motion.h1>
-          <motion.h1
-            variants={item}
-            data-scroll
-            data-scroll-delay="0.04"
-            data-scroll-speed="4"
-          >
-            G
-          </motion.h1>
-          <motion.h1
-            variants={item}
-            data-scroll
-            data-scroll-delay="0.04"
-            data-scroll-speed="4"
-          >
-            E
-          </motion.h1>
-          <motion.h1
-            variants={item}
-            data-scroll
-            data-scroll-delay="0.04"
-            data-scroll-speed="4"
-          >
-            D
-          </motion.h1>
         </div>
         <motion.h2
           style={{ alignSelf: "flex-end" }}
